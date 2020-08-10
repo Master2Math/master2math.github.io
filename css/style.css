@@ -1,0 +1,28 @@
+/*Warna digambar background*/
+.warna-bg{
+    background: linear-gradient(to right, rgba(120, 120, 200, 0.5),
+     rgba(120, 120, 200, 0.5));
+   
+}
+/*Background warna Join Us*/
+.bg-card{
+    background: -webkit-linear-gradient(right, #EBC5C5, #757575);
+}
+.jumbotron-bg{
+    background-size: cover;
+    background: url(../img/background.JPG);
+    background-size: cover;
+    height: 20%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*Background Paragraf dan Contact*/
+.bg{
+    background: -webkit-linear-gradient(right, #a6f77b, #2dbd6e);
+}
+.gambar:hover {
+        transform: scale(1.25);
+        transition: 0.6s;
+        cursor: pointer;
+    }
